@@ -77,6 +77,7 @@ export default function HomePage(props) {
                     )} */}
                     <i className={"fa-solid duration-200 fa-microphone " + (recordingStatus === 'recording' ? ' text-rose-300' : "")}></i>
                 </div>
+
             </button>
             <p className='text-base'>Or <label className='text-blue-400 cursor-pointer hover:text-blue-600 duration-200'>upload <input onChange={(e) => {
                 const tempFile = e.target.files[0]
