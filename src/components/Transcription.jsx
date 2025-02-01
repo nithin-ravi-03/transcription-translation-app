@@ -1,9 +1,10 @@
 import React from 'react'
 
-const Transcription = () => {
+const Transcription = (props) => {
+  const{textElement}=props
   return (
     <div>
-        Transcription
+        {textElement}
     </div>
   )
 }
