@@ -17,9 +17,12 @@ The project is optimized with **Web Workers**, ensuring that heavy computations 
 - **Speech-to-Text:** [OpenAI Whisper (Tiny English)](https://huggingface.co/openai/whisper-tiny.en)
 - **Translation:** [Xenova/nllb-200-distilled-600M](https://huggingface.co/Xenova/nllb-200-distilled-600M)
 
-## **🖥 Demo Link**
-[🔗 **[Live Demo](#)** [*(Update with actual link when deployed)*
-](https://transcription-translation-app.vercel.app/)](https://transcription-translation-app.vercel.app/)
+## 🖥 Demo Link
+Check out the live demo of the transcription and translation app below:
+
+[🔗 **Live Demo**](https://transcription-translation-app.vercel.app/)
+*(Update with actual link when deployed)*
+
 
 ## **📸 UI Preview**
 **![image](https://github.com/user-attachments/assets/64986695-c195-4756-9c47-dc65789cf611)
