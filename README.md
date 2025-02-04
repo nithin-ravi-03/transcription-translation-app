@@ -18,8 +18,8 @@ The project is optimized with **Web Workers**, ensuring that heavy computations 
 - **Translation:** [Xenova/nllb-200-distilled-600M](https://huggingface.co/Xenova/nllb-200-distilled-600M)
 
 ## **🖥 Demo Link**
-🔗 **[Live Demo](#)** *(Update with actual link when deployed)*
-
+🔗 **[Live Demo](#)** [*(Update with actual link when deployed)*
+](https://transcription-translation-app.vercel.app/)
 ## **📸 UI Preview**
 **![image](https://github.com/user-attachments/assets/64986695-c195-4756-9c47-dc65789cf611)
 ![image](https://github.com/user-attachments/assets/eb3c90fa-5010-419e-95c7-9ecd6a3352f8)
