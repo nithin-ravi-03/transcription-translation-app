@@ -21,7 +21,6 @@ The project is optimized with **Web Workers**, ensuring that heavy computations 
 Check out the live demo of the transcription and translation app below:
 
 [🔗 **Live Demo**](https://transcription-translation-app.vercel.app/)
-*(Update with actual link when deployed)*
 
 
 ## **📸 UI Preview**
